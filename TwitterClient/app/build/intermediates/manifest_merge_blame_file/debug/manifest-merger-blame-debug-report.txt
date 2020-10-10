@@ -19,8 +19,8 @@
 13
 14    <application
 14-->C:\Users\grees\Documents\Codepath\Android\TwitterClient\app\src\main\AndroidManifest.xml:10:5-37:19
-15        android:name="com.codepath.apps.restclienttemplate.TwitterApp"
-15-->C:\Users\grees\Documents\Codepath\Android\TwitterClient\app\src\main\AndroidManifest.xml:11:9-35
+15        android:name="com.codepath.apps.restclienttemplate.RestApplication"
+15-->C:\Users\grees\Documents\Codepath\Android\TwitterClient\app\src\main\AndroidManifest.xml:11:9-40
 16        android:allowBackup="true"
 16-->C:\Users\grees\Documents\Codepath\Android\TwitterClient\app\src\main\AndroidManifest.xml:12:9-35
 17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"

@@ -91,7 +91,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\gr
 	android:theme
 		ADDED from C:\Users\grees\Documents\Codepath\Android\TwitterClient\app\src\main\AndroidManifest.xml:15:9-40
 	android:name
-		ADDED from C:\Users\grees\Documents\Codepath\Android\TwitterClient\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\grees\Documents\Codepath\Android\TwitterClient\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.codepath.apps.restclienttemplate.TimelineActivity
 ADDED from C:\Users\grees\Documents\Codepath\Android\TwitterClient\app\src\main\AndroidManifest.xml:16:9-63
 	android:name
