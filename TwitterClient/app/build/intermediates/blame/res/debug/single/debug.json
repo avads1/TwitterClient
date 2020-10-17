@@ -24,6 +24,14 @@
         "source": "C:\\Users\\grees\\Documents\\Codepath\\Android\\TwitterClient\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\Users\\grees\\Documents\\Codepath\\Android\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_compose.xml.flat",
+        "source": "C:\\Users\\grees\\Documents\\Codepath\\Android\\TwitterClient\\app\\src\\main\\res\\layout\\activity_compose.xml"
+    },
+    {
+        "merged": "C:\\Users\\grees\\Documents\\Codepath\\Android\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\grees\\Documents\\Codepath\\Android\\TwitterClient\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
         "merged": "C:\\Users\\grees\\Documents\\Codepath\\Android\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
         "source": "C:\\Users\\grees\\Documents\\Codepath\\Android\\TwitterClient\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
